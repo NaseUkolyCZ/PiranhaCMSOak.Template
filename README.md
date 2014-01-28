@@ -1,4 +1,4 @@
-__NAME__
+PiranhaCMSOak.Template
 ======================
 
 WarmuP template for PiranhaCMSOak, 
